@@ -1,0 +1,13 @@
+h1{
+    font-size: 32px;
+    font-family: 'Roboto', Times, serif;
+}
+
+.recipes{
+    background-color: chocolate;
+}
+
+.li{
+    background-color: coral;
+    color: white;
+}
